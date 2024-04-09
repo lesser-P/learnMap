@@ -1,3 +1,3 @@
-module learnMap
+module github.com/lesser-P/learnMap
 
-go 1.21
+go 1.21.4
