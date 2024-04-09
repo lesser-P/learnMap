@@ -87,7 +87,7 @@ panic早于defer执行，defer搭配recover可以用来捕获panic，如果存�
 recover只能恢复同一个协程中的panic，不能跨协程捕获
 
 ### 包管理工具，go mod
-#### 问题
+#### 问题w
 怎么样可以把自己开发的包发布到git上被别人引用呢？
 #### 答案
 
